@@ -99,6 +99,31 @@
 		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
 		"attackSound": "horse"
 	},
+	{
+		"name": "Rata escupidora en bote",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 32,
+		"rangedStrength": 35,
+		"cost": 200,
+		"requiredResource": "Iron",
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
+	},
+	{
+		"name": "Rata en bote",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 30,
+		"cost": 150,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I","Coastal Raider II","[Privateer] ability"],
+		"attackSound": "cannon"
+	},
 	
 	
 	
