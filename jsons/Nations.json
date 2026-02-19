@@ -6,7 +6,7 @@
     "startBias": ["Avoid [Coast]", "River"],
 
     "startIntroPart1": "Siempre se reian de Rateii por sus jugadas cuestionables y su falta de conocimiento sobre el Unciv, pero todo cambio cuando Rateii comenzo su trainig arc, y ahora ha vuelto mas poderoso que nunca. Todos seraan papeados por Rateii el goat."
-    "declaringWar": "Te voy a papear cabron",
+    "declaringWar": "Pendejo! Te voy a papear cabron",
 		"attacked": "Terrible decision we te voy a papear",
 		"defeated": "Me salio mal spawn we rematch o miedo",
 		"introduction": "No te voy a papear we, por ahora",
@@ -15,7 +15,7 @@
     "cities": ["AGUAS DULCES","Pueblo Marron","El Chuy","Montevideo","Castillos","Rateiiland","Malvin Norte"]
 
     "uniqueName": "La venganza de Rateii",
-		"uniques": ["[+100]% [Food] [in all cities]", "[+10 Happiness] [in all cities]", "[+25]% [Science] [in all cities]", "[+5 Faith] [in capital]"],
+		"uniques": ["[+40]% [Food] [in all cities]", "[+3 Happiness] [in all cities]", "[+1 Faith] [in capital]"],
 	  
 	  "outerColor": [0,15,0],
 	  "innerColor": [128,20,128]
