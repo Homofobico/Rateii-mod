@@ -15,7 +15,7 @@
     "cities": ["AGUAS DULCES","Pueblo Marron","El Chuy","Montevideo","Castillos","Rateiiland","Malvin Norte"]
 
     "uniqueName": "La venganza de Rateii",
-		"uniques": ["[+40]% [Food] [in all cities]", "[+3 Happiness] [in all cities]", "[+1 Faith] [in capital]"],
+		"uniques": ["[+40]% [Food] [in all cities]", "[+3 Happiness] [in all cities]", "[+1 Faith] [in capital]","[-30]% Production when constructing [All] wonders [in all cities]"],
 	  
 	  "outerColor": [0,15,0],
 	  "innerColor": [128,20,128]
