@@ -1,7 +1,7 @@
 [
 {
 		"name": "coup de rat",
-		"uniques":  ["[+20]% Strength <vs cities> <for adjacent friendly units>"],
+		"uniques": ["[+20]% Strength for [All] [Military] units in adjacent [All] tiles <vs cities> <when attacking>"],
 		"innerColor": [195,53,43],
 		"outerColor": [253,236,234],
         "row": 2,
