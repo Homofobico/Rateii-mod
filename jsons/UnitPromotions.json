@@ -1,8 +1,7 @@
 [
 {
 		"name": "coup de rat",
-		"uniques":  "+20% Strength for adjacent friendly units <vs cities>"
-",
+		"uniques":  "+20% Strength for adjacent friendly units <vs cities>",
 		"innerColor": [195,53,43],
 		"outerColor": [253,236,234],
         "row": 0,
