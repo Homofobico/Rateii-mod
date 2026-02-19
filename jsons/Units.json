@@ -12,6 +12,7 @@
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"], 
     "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"attackSound": "nonmetalhit",
+	  "promotions": ["coup de rat"]
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
 		]
