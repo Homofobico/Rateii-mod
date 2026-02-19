@@ -108,9 +108,11 @@
 		"cost": 200,
 		"requiredResource": "Iron",
 		"requiredTech": "Navigation",
+		"replaces": "Frigade",
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
+		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
 		"attackSound": "shipCannonVolley"
 	},
 	{
@@ -122,6 +124,8 @@
 		"requiredTech": "Navigation",
 		"upgradesTo": "Destroyer",
 		"promotions": ["Coastal Raider I","Coastal Raider II","[Privateer] ability"],
+		"uniqueTo": "Los pendemaxx (Rateii jugala bien te lo rogamos todos)",
+		"replaces": "Privateer",
 		"attackSound": "cannon"
 	},
 	
