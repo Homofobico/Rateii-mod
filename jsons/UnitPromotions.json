@@ -1,7 +1,7 @@
 [
 {
 		"name": "coup de rat",
-		"uniques": ["[+20]% Strength bonus for [Military] units within [2] tiles"],
+		"uniques": ["[+20]% Strength bonus for [all] [Military] units within [2] tiles"],
 		"innerColor": [195,53,43],
 		"outerColor": [253,236,234],
         "row": 2,
