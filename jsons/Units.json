@@ -108,7 +108,7 @@
 		"cost": 200,
 		"requiredResource": "Iron",
 		"requiredTech": "Navigation",
-		"replaces": "Frigade",
+		"replaces": "Frigate",
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
